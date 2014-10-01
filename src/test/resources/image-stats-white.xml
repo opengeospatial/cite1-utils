@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image_stats>
+  <model value="RGB">
+    <subimage x="0" y="0" width="25" height="100">
+      <count bands="RGB" sample="0xffffff" />
+    </subimage>
+    <subimage x="150" y="0" width="50" height="50">
+      <count bands="RGB" sample="0xffffff" />
+    </subimage>
+  </model>
+</image_stats>
