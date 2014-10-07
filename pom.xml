@@ -1,9 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.opengis.cite</groupId>
   <artifactId>cite1-utils</artifactId>
-  <version>1.1.1-SNAPSHOT</version>
+  <version>1.1.1</version>
   <name>CITE-1 Testing Utilities</name>
   <description>
   Provides various utility functions developed during the CITE-1 initiative conducted 
@@ -25,7 +25,7 @@
     <connection>scm:git:https://github.com/opengeospatial/cite1-utils.git</connection>
     <developerConnection>scm:git:git@github.com:opengeospatial/cite1-utils.git</developerConnection>
     <url>https://github.com/opengeospatial/cite1-utils</url>
-    <tag>HEAD</tag>
+    <tag>1.1.1</tag>
   </scm>
   <issueManagement>
     <system>GitHub Issue Tracker</system>
