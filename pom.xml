@@ -6,7 +6,7 @@
   <version>1.1.2-SNAPSHOT</version>
   <name>CITE-1 Testing Utilities</name>
   <description>
-  Provides various utility functions developed during the CITE-1 initiative conducted 
+  Provides various utility functions developed during the CITE-1 initiative conducted
   in 2003. Includes a GML 2.1 schema validator.
   </description>
   <url>http://opengeospatial.github.io/cite1-utils/</url>
@@ -83,6 +83,11 @@
           <source>1.7</source>
           <target>1.7</target>
         </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-site-plugin</artifactId>
+        <version>3.7.1</version>
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
